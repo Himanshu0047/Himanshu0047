@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Game Development projects
 - 📫 How to reach me : Email - sharmahimanshu.7699@gmail.com
 - My published games - https://himanshu0047.itch.io/
+- LinkedIn - https://www.linkedin.com/in/himanshu-sharma-090a3b183/
 
 <!---
 Himanshu0047/Himanshu0047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
